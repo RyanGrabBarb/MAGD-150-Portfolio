@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to my MAGD 150 portfolio
 
-You can use the [editor on GitHub](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Here I am showcasing five different assignments in which I have created for my MAGD 150 class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Showcase
+Here here are some of my assignments:
 
-### Markdown
+### [Assignment 1](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/blob/gh-pages/s19magd150lab04_Brahm/s19magd150lab04_Brahm.pde) Titled: s19magd150lab04_Brahm
+For this program, I attempted to make a whirlpool sort of effect, so I did just that with a series of many overlapping blue lines. I also made it so that one could change trhe speed of the whirlpool by using the arrow keys; since I used a randomizing function. one can also change the shape of the whirlpool if desired.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Assignment 2](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/blob/gh-pages/s19magd150lab05_Brahm/s19magd150lab05_Brahm.pde) Titled: s19magd150lab05_Brahm
+This assignment is comprised of many created shapes and use of movement with them. Upon running this program, one will be presented with a television with a button that turn the t.v. on and off. As well as that, there are buttons to change the speed of the endlessly created cars that show up on the t.v.
 
-```markdown
-Syntax highlighted code block
+### [Assignment 3](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/tree/gh-pages/s19magd150lab06_Brahm) Titled: s19magd150lab06_Brahm
+This is a fairly simple falling rain animation like program. As well as that, theres a poem I just randomly thought of that will print upon for different lines while running the code.
 
-# Header 1
-## Header 2
-### Header 3
+### [Assignment 4](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/blob/gh-pages/s19magd150_lab08_Brahm/s19magd150_lab08_Brahm.pde) Titled: s19magd150lab08_Brahm
+This code creates two motivational sentences, but both sentences are ustilizing creepy fonts. I found doing this was ironic but kinda funny.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Assignment 5](https://github.com/RyanGrabBarb/MAGD-150-Portfolio/blob/gh-pages/s19magd150lab09_Brahm/s19magd150lab09_Brahm.pde) Titled: s19magd150lab09_Brahm
+This progam consists of a slideshow documentary video in which I discovered on YouTube. Aside from that, an image of a frame that the video is played within is imported. Aside from both of those, a song for background music, that I have created mysrelf, was imported.
